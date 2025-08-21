@@ -5,7 +5,7 @@
 </h3></i></head>
 <p>
 
-Estudo Ciências da Computação e me encontro no 3⁰ período. Estou sempre disposto à aprender coisas novas, dedicação é a minha maior qualidade! Participo do Projeto de Extensão da UNICAP Competitive Programming, onde eu e meus colegas aprendemos e desenvolvemos algoritmos que nos possibilita criar soluções para problemas de diversos tipos! 
+Estudo Ciências da Computação e me encontro no 5⁰ período. Estou sempre disposto à aprender coisas novas, dedicação é a minha maior qualidade! Participo do Projeto CIn Motorola na área de teste de Softwares, onde eu consigo desenvolver minhas habilidades e conhecimentos sobre essa etapa importantíssima do desenvolvimento de Software! 
 ##
 <div>
   <a href="https://github.com/Pedro-Vic3005">
